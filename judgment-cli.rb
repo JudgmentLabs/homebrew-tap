@@ -8,8 +8,8 @@ class JudgmentCli < Formula
 
   desc "Command-line interface for the Judgment API"
   homepage "https://github.com/JudgmentLabs/cli"
-  url "https://github.com/JudgmentLabs/cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "68bd45e1c3125271fff2bdef4cf8f5c7233e9c1b38fc0460f1fbe14de8668bac"
+  url "https://github.com/JudgmentLabs/cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "1e5ff7e4837ef7adf67f93dcc293cae08f8d97e9f302d7eda3d050b56c82bd1a"
   license "MIT"
   head "https://github.com/JudgmentLabs/cli.git", branch: "main"
 
