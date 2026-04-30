@@ -8,8 +8,8 @@ class JudgmentCli < Formula
 
   desc "Command-line interface for the Judgment API"
   homepage "https://github.com/JudgmentLabs/cli"
-  url "https://github.com/JudgmentLabs/cli/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "1e5ff7e4837ef7adf67f93dcc293cae08f8d97e9f302d7eda3d050b56c82bd1a"
+  url "https://github.com/JudgmentLabs/cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "0b6529e41d664837af5f17e1e074758158fc107b3b1d66e83f36463ff2b1e4fc"
   license "MIT"
   head "https://github.com/JudgmentLabs/cli.git", branch: "main"
 
@@ -51,8 +51,8 @@ class JudgmentCli < Formula
   end
 
   resource "pathspec" do
-    url "https://files.pythonhosted.org/packages/2e/17/9c3094b822982b9f1ea666d8580ce59000f61f87c1663556fb72031ad9ec/pathspec-1.1.0.tar.gz"
-    sha256 "f5d7c555da02fd8dde3e4a2354b6aba817a89112fa8f333f7917a2a4834dd080"
+    url "https://files.pythonhosted.org/packages/5a/82/42f767fc1c1143d6fd36efb827202a2d997a375e160a71eb2888a925aac1/pathspec-1.1.1.tar.gz"
+    sha256 "17db5ecd524104a120e173814c90367a96a98d07c45b2e10c2f3919fff91bf5a"
   end
 
   resource "platformdirs" do
